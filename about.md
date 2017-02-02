@@ -4,6 +4,12 @@ title: About
 permalink: /about/
 ---
 
+
+{% raw %}
+<b>test</b>
+{% endraw %}
+
+
 ### Email
 
-patrickgallen at gmai]
+patrickgallen at gmail.com
